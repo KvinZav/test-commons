@@ -1,0 +1,3 @@
+[submodule "fido-max-commons"]
+	path = fido-max-commons
+	url = https://github.com/KevinZav/fido-max-commons.git
